@@ -6,6 +6,8 @@ P3422
 
 ## Внешний вид проекта
 
+Проект доступен по [ссылке](https://dadayarch.github.io/VK_ML_Project/): 
+
 ![Интерфейс проекта](public/screenshots/img.png)
 
 ## О проекте
